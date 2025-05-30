@@ -1,2 +1,2 @@
-# ghana-hockey-website
+index.html
 Ghana Hockey
